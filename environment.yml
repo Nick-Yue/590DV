@@ -1,0 +1,12 @@
+name: environment
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - numpy
+  - bqplot
+  - toolz
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - seaborn
